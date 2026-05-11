@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy — Rudy (Personal AI Assistant)</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+           max-width: 720px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #222; }
+    h1 { border-bottom: 2px solid #ccc; padding-bottom: 10px; }
+    h2 { margin-top: 2em; }
+    .meta { color: #666; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+
+<h1>Privacy Policy — Rudy</h1>
+<p class="meta">Last updated: May 11, 2026</p>
+
+<p>Rudy is a personal AI assistant operated by Andy (the "Account Owner") for personal and household use. This policy describes what information Rudy collects, how it is used, and how it is protected.</p>
+
+<h2>Who we are</h2>
+<p>Andy operates Rudy as a personal, non-commercial AI assistant for himself, his family, and a small number of explicitly-enrolled household contacts. Rudy is not a registered business and does not collect data for any commercial purpose. For questions about this policy, contact <a href="mailto:kritchyodar@gmail.com">kritchyodar@gmail.com</a>.</p>
+
+<h2>Information we collect</h2>
+<ul>
+  <li><strong>Phone numbers</strong> of the Account Owner and explicitly-enrolled household members who have consented to communicate with Rudy by SMS.</li>
+  <li><strong>Message content</strong> sent to and from Rudy, used to produce relevant assistant responses.</li>
+  <li><strong>Operational metadata</strong> such as message timestamps, delivery status, and error codes returned by the SMS provider.</li>
+</ul>
+
+<h2>How we use information</h2>
+<p>Information is used solely to operate the personal AI assistant:</p>
+<ul>
+  <li>Sending notifications, reminders, alerts, and conversational replies requested by enrolled users.</li>
+  <li>Allowing the Account Owner to manage household tasks, calendar items, and other personal-assistant functions.</li>
+  <li>Diagnosing problems with Rudy's operation.</li>
+</ul>
+
+<h2>Sharing</h2>
+<p>Rudy does not sell, rent, or share information with third parties for marketing or advertising. Information is shared only with the following service providers strictly to operate Rudy:</p>
+<ul>
+  <li><strong>Twilio Inc.</strong> — telephony provider, transmits SMS messages between Rudy and enrolled phone numbers.</li>
+  <li><strong>Anthropic, PBC</strong> — AI provider, processes message content to generate Rudy's replies.</li>
+</ul>
+<p>These providers operate under their own privacy policies and only receive information necessary to provide their service.</p>
+
+<h2>Opt-in and opt-out</h2>
+<p>Enrollment in Rudy's SMS service is by explicit invitation from the Account Owner. Recipients may opt out at any time by replying <strong>STOP</strong> to any message from Rudy. Replying <strong>HELP</strong> returns assistance information. Standard message and data rates from the recipient's carrier may apply.</p>
+
+<h2>Data retention</h2>
+<p>Message logs are retained for up to 90 days for operational and debugging purposes, then deleted. Phone numbers of opted-out recipients are removed promptly upon receipt of a STOP message.</p>
+
+<h2>Security</h2>
+<p>Rudy operates on a private server controlled by the Account Owner. Credentials and message content are stored with restrictive file permissions and are not exposed to the public internet. Communication with service providers occurs over encrypted (TLS/HTTPS) channels.</p>
+
+<h2>Children's privacy</h2>
+<p>Rudy is not directed to children under 13. The Account Owner does not knowingly enroll children under 13 in Rudy's SMS service.</p>
+
+<h2>Changes to this policy</h2>
+<p>This policy may be updated as Rudy's capabilities evolve. The "Last updated" date at the top reflects the most recent revision.</p>
+
+<h2>Contact</h2>
+<p>For privacy questions or to request removal of your information, contact <a href="mailto:kritchyodar@gmail.com">kritchyodar@gmail.com</a>.</p>
+
+</body>
+</html>
